@@ -3,7 +3,8 @@ speedtraps = {
     {name = "Sandy Driveby", x = 1212.397, y = 3536.227, z = 34.568, minSpeed = 22.35},
     {name = "Tongva Valley Spy", x = -1511.871, y = 1445.777, z = 120.061, minSpeed = 22.35},
     {name = "Paleto Problems", x = -110.463, y = 6266.835, z = 30.543, minSpeed = 22.35},
-    {name = "Vinewood Hills", x = 1394.260, y = 674.151, z = 79.467, minSpeed = 22.35}
+    {name = "Vinewood Hills", x = 1394.260, y = 674.151, z = 79.467, minSpeed = 22.35},
+    {name = "Vinewood Hills backward", x = 1384.04, y = 684.04, z = 79.453, minSpeed = 22.35}
 }
 
 Citizen.CreateThread(function()
